@@ -486,29 +486,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-
-- 💰 Saves users money on groceries
-- 🥗 Improves nutrition outcomes
-- 📊 Data-driven decision making
-- ⏱️ Saves time on meal planning
-
----
-
-## 🎓 Learning Resources
-
-Built this project to learn? Here are key concepts:
-
-1. **Linear Programming** - Optimization technique for resource allocation
-2. **API Integration** - OAuth2, rate limiting, caching strategies
-3. **Fuzzy Matching** - String similarity algorithms
-4. **Data Modeling** - Pydantic for validation
-5. **Web Development** - Streamlit for interactive apps
-6. **Data Visualization** - Plotly for charts
-7. **Software Architecture** - Modular, maintainable code
-
-
----
-
 **Made with ❤️ and 🐍 Python**
 
 ⭐ Star this repo if you find it useful!
