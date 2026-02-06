@@ -455,30 +455,9 @@ See `IMPROVEMENTS.md` for detailed roadmap:
 
 ---
 
-## 🤝 Contributing
-
-Contributions welcome! Please:
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit changes (`git commit -m 'Add AmazingFeature'`)
-4. Push to branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
----
-
 ## 📝 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## 👨‍💻 Author
-
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [yourprofile](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
 
 ---
 
@@ -507,36 +486,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 💼 Why This Project Stands Out
 
-### For Hiring Managers
-
-**Full-Stack Capability:**
-- ✅ Backend: Python, APIs, databases
-- ✅ Frontend: Streamlit, visualizations
-- ✅ DevOps: Environment management, deployment
-
-**Advanced Skills:**
-- ✅ Mathematical optimization (operations research)
-- ✅ API integration (OAuth2, rate limiting)
-- ✅ Data engineering (caching, validation)
-- ✅ Fuzzy matching algorithms
-- ✅ UI/UX design
-
-**Engineering Excellence:**
-- ✅ Clean, modular architecture
-- ✅ Type hints and validation
-- ✅ Error handling and logging
-- ✅ Performance optimization
-- ✅ Security best practices
-
-**Business Acumen:**
-- ✅ Solves real user problems
-- ✅ Clear value proposition
-- ✅ Scalable architecture
-- ✅ Monetization potential
-
-**Real-World Impact:**
 - 💰 Saves users money on groceries
 - 🥗 Improves nutrition outcomes
 - 📊 Data-driven decision making
@@ -558,8 +508,6 @@ Built this project to learn? Here are key concepts:
 
 
 ---
-
-<div align="center">
 
 **Made with ❤️ and 🐍 Python**
 
