@@ -22,6 +22,22 @@ An intelligent web application that uses **linear programming** to optimize groc
 
 ---
 
+## 📸 Screenshots
+
+### 1. Dashboard & Smart Presets
+![Landing Page](Nutritional%20Arbitrage%20Landing.png)
+*Intuitive sidebar for setting nutrition targets, budget constraints, and dietary restrictions.*
+
+### 2. Optimization Results & Shopping List
+![Optimization Results](NA_result_1.png)
+*Instant, mathematically optimal grocery list with smart insights and cost analysis.*
+
+### 3. Nutritional Analysis & Visualizations
+![Data Visualizations](NA_result_2.png)
+*Interactive charts breaking down cost efficiency, macro distribution, and daily nutritional goals.*
+
+---
+
 ## 🌟 Key Features
 
 ### 🧮 **Mathematical Optimization**
